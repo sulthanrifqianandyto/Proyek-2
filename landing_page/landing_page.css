@@ -1,0 +1,340 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Arial";
+  overflow-x: hidden;
+}
+
+img {
+  position: absolute;
+  display: block;
+  margin: 0px;
+  border: none;
+  padding: 0px;
+}
+
+div {
+  position: absolute;
+}
+
+#content-container {
+  display: block;
+  position: relative;
+  width: 1363px;
+  width: 1363px;
+  height: 1024px;
+  overflow: hidden;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#_bg__landing_page {
+  top: 0px;
+  left: 0px;
+  width: 1363px;
+  height: 1024px;
+  background: rgba(251.81, 251.81, 251.81, 1);
+}
+
+#rectangle_14 {
+  top: -30px;
+  left: 0px;
+  width: 1363px;
+  height: 157px;
+  background: rgba(31, 171, 137, 1);
+}
+
+#medicine_partner {
+  top: 37px;
+  left: 158px;
+  width: 125.4px;
+  height: 65.4px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+}
+
+#rectangle_15 {
+  top: 37px;
+  left: 292px;
+  width: 779px;
+  height: 59px;
+  background: rgba(251.81, 251.81, 251.81, 1);
+}
+
+#group_33 {
+  top: 44px;
+  left: 985px;
+  width: 73px;
+  height: 45px;
+}
+
+#_bg__group_33_ek1 {
+  top: -44px;
+  left: -985px;
+  width: 73px;
+  height: 45px;
+  background: #;
+}
+
+#rectangle_16 {
+  top: 0px;
+  left: 0px;
+  width: 73px;
+  height: 45px;
+  background: rgba(31, 171, 137, 1);
+}
+
+#kisspng_forest_lake_computer_icons_inspection_white_wine_search_bar_5addbd8c2df2a6_1 {
+  top: 3px !important;
+  position: absolute !important;
+  left: 18px;
+  width: 38px;
+  height: 38px;
+  background: url(skins/kisspng_forest_lake_computer_icons_inspection_white_wine_search_bar_5addbd8c2df2a6_1.png);
+  background-size: cover;
+}
+
+#__ {
+  top: 1px;
+  left: 82px;
+  width: 81px;
+  height: 144.6px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 96px;
+  font-weight: bold;
+  line-height: 139.6px;
+  text-align: center;
+  color: #ffffff;
+}
+
+#group_34 {
+  top: 178px;
+  left: 204px;
+  width: 350px;
+  height: 334px;
+}
+
+#_bg__group_34_ek1 {
+  top: -178px;
+  left: -204px;
+  width: 350px;
+  height: 334px;
+  background: #;
+}
+
+#rectangle_17 {
+  top: 0px !important;
+  position: absolute !important;
+  left: 0px;
+  width: 350px;
+  height: 334px;
+  background: url(skins/rectangle_17.png);
+  background-size: cover;
+}
+
+#daftar_apotek {
+  top: 24px;
+  left: 33px;
+  width: 298.2px;
+  height: 52.33px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #fbfbfb;
+}
+
+#pngegg_1 {
+  top: 78px !important;
+  position: absolute !important;
+  left: 70px;
+  width: 216.67px;
+  height: 215.66px;
+  background: url(skins/pngegg_1.png);
+  background-size: cover;
+}
+
+#group_40 {
+  top: 178px;
+  left: 840px;
+  width: 350px;
+  height: 334px;
+}
+
+#_bg__group_40_ek1 {
+  top: -178px;
+  left: -840px;
+  width: 350px;
+  height: 334px;
+  background: #;
+}
+
+#rectangle_17_ek1 {
+  top: 0px !important;
+  position: absolute !important;
+  left: 0px;
+  width: 350px;
+  height: 334px;
+  background: url(skins/rectangle_17_ek1.png);
+  background-size: cover;
+}
+
+#kategori_obat {
+  top: 25px;
+  left: 34px;
+  width: 279.2px;
+  height: 52.2px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #fbfbfb;
+}
+
+#pngegg__2__1 {
+  top: 79px !important;
+  position: absolute !important;
+  left: 55px;
+  width: 240px;
+  height: 225px;
+  background: url(skins/pngegg__2__1.png);
+  background-size: cover;
+}
+
+#group_35 {
+  top: 595px;
+  left: 212px;
+  width: 350px;
+  height: 334px;
+}
+
+#_bg__group_35_ek1 {
+  top: -595px;
+  left: -212px;
+  width: 350px;
+  height: 334px;
+  background: #;
+}
+
+#rectangle_17_ek2 {
+  top: 0px !important;
+  position: absolute !important;
+  left: 0px;
+  width: 350px;
+  height: 334px;
+  background: url(skins/rectangle_17_ek2.png);
+  background-size: cover;
+}
+
+#status_pengiriman {
+  top: 22px;
+  left: -1px;
+  width: 346.2px;
+  height: 48.2px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #fbfbfb;
+}
+
+#pngegg_1_ek1 {
+  top: 78px !important;
+  position: absolute !important;
+  left: 70px;
+  width: 216.67px;
+  height: 215.66px;
+  background: url(skins/pngegg_1_ek1.png);
+  background-size: cover;
+}
+
+#group_36 {
+  top: 595px;
+  left: 840px;
+  width: 350px;
+  height: 334px;
+}
+
+#_bg__group_36_ek1 {
+  top: -595px;
+  left: -840px;
+  width: 350px;
+  height: 334px;
+  background: #;
+}
+
+#rectangle_17_ek3 {
+  top: 0px !important;
+  position: absolute !important;
+  left: 0px;
+  width: 350px;
+  height: 334px;
+  background: url(skins/rectangle_17_ek3.png);
+  background-size: cover;
+}
+
+#transparent_buy_icon_airport_terminal_icon_shopping_cart_icon_60250fbc507486_1 {
+  top: 75px !important;
+  position: absolute !important;
+  left: 42px;
+  width: 256px;
+  height: 222px;
+  background: url(skins/transparent_buy_icon_airport_terminal_icon_shopping_cart_icon_60250fbc507486_1.png);
+  background-size: cover;
+}
+
+#detail_pemesanan {
+  top: 22px;
+  left: 6px;
+  width: 338.2px;
+  height: 52.2px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  color: #fbfbfb;
+}
+
+#_103145092_identification_card_icon_id_profile_white_icon_with_shadow_on_transparent_background_removebg_preview_1 {
+  top: 11px !important;
+  position: absolute !important;
+  left: 1166px;
+  width: 84px;
+  height: 111px;
+  background: url(skins/_103145092_identification_card_icon_id_profile_white_icon_with_shadow_on_transparent_background_removebg_preview_1.png);
+  background-size: cover;
+}
+
+#pngegg__3__1 {
+  top: 34px !important;
+  position: absolute !important;
+  left: 1084px;
+  width: 59px;
+  height: 59px;
+  background: url(skins/pngegg__3__1.png);
+  background-size: cover;
+}
+
+#l {
+  top: 8px;
+  left: 1131px;
+  width: 36px;
+  height: 144.6px;
+  overflow: hidden;
+  font-family: Inter;
+  font-size: 96px;
+  text-align: center;
+  color: #ffffff;
+}
+
+/* Add your custom CSS here */
