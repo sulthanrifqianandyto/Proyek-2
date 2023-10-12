@@ -1,0 +1,181 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1363px; width: 1363px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__login {
+	top: 0px;
+	left: 0px;
+	width: 1363px;
+	height: 1024px;
+	background:rgba(255,255,255,1);
+}
+
+
+#login {
+	top: 228px;
+	left: 570px;
+	width: 169.4px;
+	height: 94.4px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 64px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: #000000;
+	color:#000000;
+}
+
+
+#rectangle_7 {
+	opacity:0.80000001192093;
+	top: 384px;
+	left: 544px;
+	width: 768px;
+	height: 78px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(217,217,217,0.8);
+}
+
+
+#rectangle_7_ek1 {
+	opacity:0.80000001192093;
+	top: 505px;
+	left: 544px;
+	width: 768px;
+	height: 78px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(217,217,217,0.8);
+}
+
+
+#rectangle_7_ek2 {
+	top: 689px;
+	left: 461px;
+	width: 442px;
+	height: 90px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(31,171,137,1);
+}
+
+
+#login_ek1 {
+	top: 710px;
+	left: 612px;
+	width: 124px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#belum_punya_akun_ {
+	top: 804px;
+	left: 415px;
+	width: 358px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#daftar {
+	top: 804px;
+	left: 786px;
+	width: 120px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 40px;
+	text-align: center;
+	color:#A80909;
+}
+
+
+#user_name__ {
+	top: 395px;
+	left: 43px;
+	width: 486px;
+	height: 70.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#password__ {
+	top: 516px;
+	left: 43px;
+	width: 484px;
+	height: 70.8px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 48px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#rectangle_14 {
+	top: -31px;
+	left: 0px;
+	width: 1363px;
+	height: 157px;
+	background:rgba(31,171,137,1);
+}
+
+
+#medicine_partner {
+	top: 34px;
+	left: 87px;
+	width: 125.4px;
+	height: 65.4px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#__ {
+	top: -2px;
+	left: 11px;
+	width: 81px;
+	height: 144.6px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 96px;
+	font-weight: bold;
+	line-height: 139.6px;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+
